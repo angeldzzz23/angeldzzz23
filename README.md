@@ -1,14 +1,9 @@
-### Hi there 👋
+## Hi there 👋  I'm Angel I'm either running, procrastinating and or drinking black coffee. I'm very passionate about iOS Development, Machine Learning, and music. 
 
-
-**angeldzzz23/angeldzzz23** 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on a music networking app that lets uses connect with each other.
-- 🌱 I’m currently learning concurrency in iOS and machine learning
-- 💬 Ask me about ...
-- 📫 How to reach me: angeldzambrano99@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I drink too much coffee
+### About Me 
+- I am Computer Science major and an iOS Developer planning to get my masters in Computer Science/Stats.  
+- I’m currently working on a latin music networking app that lets uses connect with each other.
+- I’m currently learning concurrency in iOS and reading Artificial Intelligence: A Modern Approach.
+- 📫 How to reach me: angeldzambrano99@gmail.com 
+- ⚡ Fun fact about me: I have been working on the latin music industry for a couple years and currently in the proccess of starting a startup.. 
 
