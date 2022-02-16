@@ -7,5 +7,5 @@
 - I’m currently working on a latin music networking app that lets users connect with each other based on their industry and preferences.
 - I’m currently learning concurrency, and AVFoundation in iOS, upgrading my python skills and reading Artificial Intelligence: A Modern Approach.
 - 📫 How to reach me: angeldzambrano99@gmail.com 
-- ⚡ Fun fact about me: I have been working in the latin music industry for a couple years and I am currently in the proccess of starting a startup. 
+- ⚡ Fun fact about me: I am currently in the proccess of starting a startup. 
 
