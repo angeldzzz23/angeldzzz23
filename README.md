@@ -1,6 +1,6 @@
 ## Hi there 👋
 
- I'm Angel and I am either running, procrastinating and or drinking black coffee. I'm very passionate about iOS Development, Machine Learning, and music. 
+ I'm Angel and I am either running, coding and or drinking black coffee. I'm very passionate about iOS Development, Machine Learning, and music. 
 
 ### About Me 
 - I am Computer Science major and an iOS Developer planning to get my masters in Computer Science/Stats.  
