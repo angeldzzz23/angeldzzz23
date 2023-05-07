@@ -11,8 +11,6 @@
 - Not a fan of my Latin R&B playlist? Listen to my modern bolero playlist: <a href="https://open.spotify.com/playlist/1uXII1uCQ1dW0Zo6lupxmh?si=76e6331b86f644ef">link</a>
 - 📫 How to reach me: angeldzambrano99@gmail.com 
 
-
-https://open.spotify.com/playlist/4Wj0LgnWk1lsSAjA5agFPg?si=
 # GitHub Stats
 
 <a href="https://github.com/angeldzzz23/angeldzzz23">
