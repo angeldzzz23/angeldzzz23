@@ -7,7 +7,9 @@
 - I’m working on a latin music networking app that lets users connect with each other based on their industry and preferences.
 - currently learning concurrency, and AVFoundation in iOS, upgrading my python skills and reading Artificial Intelligence: A Modern Approach.
 - 📫 How to reach me: angeldzambrano99@gmail.com 
-- Listen to my Mexican R&B playlist: <a href="https://open.spotify.com/playlist/2vioLwvuzLrqBU75UtXLjK?si=266e869ed5f74d72">link</a>
+- Listen to my Mexican R&B playlist: 
+- Not a fan of my Mexican R&B playlist? Listen to my modern bolero playlist: <a href="https://open.spotify.com/playlist/1uXII1uCQ1dW0Zo6lupxmh?si=76e6331b86f644ef">link</a>
+ https://open.spotify.com/playlist/
 
 
 # GitHub Stats
