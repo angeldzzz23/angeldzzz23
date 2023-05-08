@@ -5,7 +5,7 @@
 ### About Me 
 - I am Computer Science major and a software engineer.  
 - I’m working on a latin music networking app that lets users connect with each other based on their industry and preferences.
-- currently learning concurrency, and AVFoundation in iOS, upgrading my python skills and reading Artificial Intelligence: A Modern Approach.
+- currently learning concurrency, and AVFoundation in iOS, learning spring and reading Artificial Intelligence: A Modern Approach.
 - I recently ran the LA marathon and I will be running my second marathon this October (Long Beach). 
 - Listen to my Latin R&B playlist: <a href="https://open.spotify.com/playlist/1uXII1uCQ1dW0Zo6lupxmh?si=708ae888e9fd4639">link</a>
 - Not a fan of my Latin R&B playlist? Listen to my modern bolero playlist: <a href="https://open.spotify.com/playlist/1uXII1uCQ1dW0Zo6lupxmh?si=76e6331b86f644ef">link</a>
