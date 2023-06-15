@@ -5,6 +5,7 @@
 ### About Me 
 - I am a software engineer.  
 - I’m working on a latin music networking app that lets users connect with each other based on their industry and preferences.
+- Im also building a meusic distribution platform to help labels upload music to streaming platforms 
 - currently learning concurrency, and AVFoundation in iOS, learning spring and reading Artificial Intelligence: A Modern Approach.
 - I recently ran the LA marathon and I will be running my second marathon this October (Long Beach). 
 - Listen to my Latin R&B playlist: <a href="https://open.spotify.com/playlist/1uXII1uCQ1dW0Zo6lupxmh?si=708ae888e9fd4639">link</a>
