@@ -22,7 +22,7 @@ https://tunelink.app
 https://tunelink.me
 
 #### Docusign but for split sheets. 
-https://tunesplit.app
+http://tunesplit.com/
 
 
 ### GitHub Stats
