@@ -13,10 +13,12 @@
 ### Projects i've built
 
 #### Platform that helps artist sell merch
-https://tunelink.app
+https://tunelink.app (no longer liver)
+https://www.youtube.com/watch?v=-ZBYDpAoIZY
 
 #### Music distribution company 
-https://tunelink.me
+https://tunelink.me (no longer live)
+https://www.youtube.com/watch?v=lmsu3nlgrX8&t=196s
 
 
 #### Docusign but for split sheets (Currently Building)
