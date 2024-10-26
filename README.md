@@ -12,6 +12,11 @@
 
 ### Projects i've built
 
+
+#### Docusign but for split sheets (Currently Building)
+https://tunesplitforsongwriters.com
+
+
 #### Platform that helps artist sell merch
 https://tunelink.app (no longer liver)
 https://www.youtube.com/watch?v=-ZBYDpAoIZY
@@ -20,9 +25,8 @@ https://www.youtube.com/watch?v=-ZBYDpAoIZY
 https://tunelink.me (no longer live)
 https://www.youtube.com/watch?v=lmsu3nlgrX8&t=196s
 
-
-#### Docusign but for split sheets (Currently Building)
-https://tunesplitforsongwriters.com
+### Meusic 
+- ios and web app that allows latin music indutry people to network. 
 
 
 ### GitHub Stats
