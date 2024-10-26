@@ -14,18 +14,18 @@
 
 
 #### Docusign but for split sheets (Currently Building)
-https://tunesplitforsongwriters.com
+- https://tunesplitforsongwriters.com
 
 
 #### Platform that helps artist sell merch
-https://tunelink.app (no longer liver)
-https://www.youtube.com/watch?v=-ZBYDpAoIZY
+- https://tunelink.app (no longer liver)
+- https://www.youtube.com/watch?v=-ZBYDpAoIZY
 
 #### Music distribution company 
-https://tunelink.me (no longer live)
-https://www.youtube.com/watch?v=lmsu3nlgrX8&t=196s
+- https://tunelink.me (no longer live)
+- https://www.youtube.com/watch?v=lmsu3nlgrX8&t=196s
 
-### Meusic 
+#### Meusic 
 - ios and web app that allows latin music indutry people to network. 
 
 
