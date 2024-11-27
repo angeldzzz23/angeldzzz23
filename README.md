@@ -11,7 +11,7 @@
 
 
 ### Projects i've built
-Most of these are a mix of interesting side projects, companies I’ve built, or client work I’ve done. For every project, I’ve been involved from the early stages of ideation (like SRS) through design and actual development.
+Most of these are a mix of interesting side projects, companies I’ve built, or client work I’ve done. For every project, I’ve been involved in every step of the process, ranging from  the  ideation (development of SRS/PRD) through design and actual development.
 
 
 #### Docusign but for split sheets (2023-Present)
