@@ -11,7 +11,8 @@
 
 
 ### Projects i've built
-for the most part these have either been side projects or companies I have built.
+for the most part these have either been interesting side projects, companies I have built or client work I have done. All of these projects, I have been invovled from ideation (SRS etc) to design and development. 
+
 
 #### Docusign but for split sheets (2023-Present)
 - https://tunesplitforsongwriters.com
