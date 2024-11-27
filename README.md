@@ -11,11 +11,11 @@
 
 
 ### Projects i've built
-for the most part these have either been interesting side projects, companies I have built or client work I have done. All of these projects, I have been invovled from ideation (SRS etc) to design and development. 
+Most of these are a mix of interesting side projects, companies I’ve built, or client work I’ve done. For every project, I’ve been involved from the early stages of ideation (like SRS) through design and actual development.
 
 
 #### Docusign but for split sheets (2023-Present)
-- https://tunesplitforsongwriters.com
+-  https://tunesplitforsongwriters.com
 - tools: Java/Springboot/docker + react/TS
 
 #### OHDC 
@@ -28,14 +28,14 @@ The project creates a fun, Duolingo-style mobile app for Android and iOS that he
 #### Platform that helps artist sell merch (2023-2024)
 ⚠️ No longer live, but relive the magic:
 - tools: Java/Springboot/docker + react + TS
-- https://tunelink.app (no longer live)
 - https://www.youtube.com/watch?v=-ZBYDpAoIZY
+- https://tunelink.app (no longer live)
 
 #### Music distribution company (2023-2024)
 ⚠️ No longer live, but relive the magic:
 - tools: Java/Springboot/docker + react + TS
-- https://tunelink.me (no longer live)
 - https://www.youtube.com/watch?v=lmsu3nlgrX8&t=196s
+- https://tunelink.me (no longer live)
 
 #### Meusic (2022-2023)
 ⚠️ No longer live
@@ -44,10 +44,9 @@ The project creates a fun, Duolingo-style mobile app for Android and iOS that he
 
 ### Dispensewith.me (2020-2022)
 ⚠️ No longer live, but relive the magic:
-- A cannabis delivery service platform that was aim to help local dispensary delivery. We had a couple of clients before we ultimately decided to pivot. 
+- A cannabis delivery service platform that was aim to help local dispensary delivery. We had a couple of clients before we ultimately decided to pivot to something else. 
 - Tools: javascript, php, and html/css, Mysql  
 - https://www.youtube.com/playlist?list=PL16_FUcnNvImERnBqqU6evEgVFtyrNacF
-
 
 ### GitHub Stats
 
