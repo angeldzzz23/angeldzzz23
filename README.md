@@ -13,10 +13,16 @@
 ### Projects i've built
 for the most part these have either been side projects or companies I have built.
 
-#### Docusign but for split sheets (2024-Present)
+#### Docusign but for split sheets (2023-Present)
 - https://tunesplitforsongwriters.com
 - tools: Java/Springboot/docker + react/TS
 
+#### OHDC 
+The project creates a fun, Duolingo-style mobile app for Android and iOS that helps farmworkers master pesticide safety and beat heat stress with interactive quizzes, videos, and gamified lessons—all wrapped in an easy-to-use, engaging interface with regularly updated content!
+- tools: Uikit/swift + kotlin + react/TS
+- Download:
+   - https://play.google.com/store/apps/details?id=com.ohdc.ohdcapp
+   - https://apps.apple.com/us/app/ohdc/id6504953262
 
 #### Platform that helps artist sell merch (2023-2024)
 ⚠️ No longer live, but relive the magic:
