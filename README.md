@@ -14,17 +14,21 @@
 for the most part these have either been side projects 
 
 
-#### Docusign but for split sheets (Currently Building)
+#### Docusign but for split sheets (2024-Present)
 - https://tunesplitforsongwriters.com
+- tools: Java/Springboot/docker + react/TS
 
 
-#### Platform that helps artist sell merch
+
+#### Platform that helps artist sell merch (2023-2024)
 ⚠️ No longer live, but relive the magic:
-- https://tunelink.app (no longer liver)
+- tools: Java/Springboot/docker + react + TS
+- https://tunelink.app (no longer live)
 - https://www.youtube.com/watch?v=-ZBYDpAoIZY
 
-#### Music distribution company 
+#### Music distribution company (2023-2024)
 ⚠️ No longer live, but relive the magic:
+- tools: Java/Springboot/docker + react + TS
 - https://tunelink.me (no longer live)
 - https://www.youtube.com/watch?v=lmsu3nlgrX8&t=196s
 
