@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hey there, world! 🌍👋
 
- I'm Angel and I am either running, coding and or drinking coffee. I'm very passionate about iOS Development, Infrastructure, and music. 
+ I'm Angel and I am either running, coding and or drinking coffee. I'm very passionate about iOS Development, Infrastructure, and music. If I’m not debugging something, I’m probably running a marathon, training for an ironman or making a playlist.
 
 ### About Me 
 - I am a software engineer.
@@ -11,6 +11,7 @@
 
 
 ### Projects i've built
+for the most part these have either been side projects 
 
 
 #### Docusign but for split sheets (Currently Building)
@@ -18,15 +19,25 @@
 
 
 #### Platform that helps artist sell merch
+⚠️ No longer live, but relive the magic:
 - https://tunelink.app (no longer liver)
 - https://www.youtube.com/watch?v=-ZBYDpAoIZY
 
 #### Music distribution company 
+⚠️ No longer live, but relive the magic:
 - https://tunelink.me (no longer live)
 - https://www.youtube.com/watch?v=lmsu3nlgrX8&t=196s
 
 #### Meusic 
-- ios and web app that allows latin music indutry people to network. 
+⚠️ No longer live
+- tools: pytho/djnango, docker, react and ios
+- ios and web app that allows latin music indutry people to network.
+
+### Dispensewith.me
+⚠️ No longer live, but relive the magic:
+- A cannabis delivery service platform that was aim to help local dispensary delivery
+- Tools: javascript, php, and html/css, Mysql  
+- https://www.youtube.com/playlist?list=PL16_FUcnNvImERnBqqU6evEgVFtyrNacF
 
 
 ### GitHub Stats
