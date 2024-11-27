@@ -11,12 +11,12 @@
 
 
 ### Projects i've built
-for the most part these have either been side projects 
-
+for the most part these have either been side projects or companies I have built.
 
 #### Docusign but for split sheets (2024-Present)
 - https://tunesplitforsongwriters.com
 - tools: Java/Springboot/docker + react/TS
+
 
 #### Platform that helps artist sell merch (2023-2024)
 ⚠️ No longer live, but relive the magic:
