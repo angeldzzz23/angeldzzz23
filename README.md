@@ -18,8 +18,6 @@ for the most part these have either been side projects
 - https://tunesplitforsongwriters.com
 - tools: Java/Springboot/docker + react/TS
 
-
-
 #### Platform that helps artist sell merch (2023-2024)
 ⚠️ No longer live, but relive the magic:
 - tools: Java/Springboot/docker + react + TS
@@ -32,14 +30,14 @@ for the most part these have either been side projects
 - https://tunelink.me (no longer live)
 - https://www.youtube.com/watch?v=lmsu3nlgrX8&t=196s
 
-#### Meusic 
+#### Meusic (2022-2023)
 ⚠️ No longer live
 - tools: pytho/djnango, docker, react and ios
 - ios and web app that allows latin music indutry people to network.
 
-### Dispensewith.me
+### Dispensewith.me (2020-2022)
 ⚠️ No longer live, but relive the magic:
-- A cannabis delivery service platform that was aim to help local dispensary delivery
+- A cannabis delivery service platform that was aim to help local dispensary delivery. We had a couple of clients before we ultimately decided to pivot. 
 - Tools: javascript, php, and html/css, Mysql  
 - https://www.youtube.com/playlist?list=PL16_FUcnNvImERnBqqU6evEgVFtyrNacF
 
