@@ -11,13 +11,22 @@
 
 
 ### Projects i've built
-Most of these are a mix of interesting side projects, companies I’ve built, or client work I’ve done. For every project, I’ve been involved in every step of the process, ranging from  the  ideation (development of SRS/PRD) through design and actual development.
+Most of these are a mix of interesting side projects, companies I’ve built, or client work I’ve done. For almost every project, I’ve been involved in every step of the process, ranging from the ideation (development of SRS/PRD) through design and actual development.
 
 
 #### Docusign but for split sheets (2023-Present)
 -  https://tunesplitforsongwriters.com
 - tools: Java/Springboot/docker + react/TS
 
+
+#### AnswersAI
+Built an iOS app in SwiftUI that allows users to snap a photo and instantly get solutions to their problems.
+- Launched the first version in just six weeks, now supporting ~500K users.
+- Currently developing the native Android app
+- Tools: swift + UIKit, node.js + typescript, and kotlin + jetpack compose
+- download:
+  - https://apps.apple.com/us/app/answersai-snap-solve/id6459510321
+ 
 #### OHDC 
 The project creates a fun, Duolingo-style mobile app for Android and iOS that helps farmworkers master pesticide safety and beat heat stress with interactive quizzes, videos, and gamified lessons—all wrapped in an easy-to-use, engaging interface with regularly updated content!
 - tools: Uikit/swift + kotlin + react/TS
