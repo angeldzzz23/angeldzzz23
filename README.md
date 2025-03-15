@@ -23,7 +23,7 @@ Most of these are a mix of interesting side projects, companies I’ve built, cl
 Built an iOS app in SwiftUI that allows users to snap a photo and instantly get solutions to their problems.
 - Launched the first version in just six weeks, now supporting ~1.1 Million users.
 - Currently developing the native Android app
-- Tools: swift + UIKit, node.js + typescript, and kotlin + jetpack compose
+- Tools: swift + SwiftUI, node.js + typescript, and kotlin + jetpack compose
 - download:
   - https://apps.apple.com/us/app/answersai-snap-solve/id6459510321
  
