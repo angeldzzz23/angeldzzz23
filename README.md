@@ -1,10 +1,10 @@
 ## Hey there, world! 🌍👋
 
- I'm Angel and I am either running, coding and or drinking coffee. I'm very passionate about iOS Development, Infrastructure, and music. If I’m not debugging something, I’m probably running a marathon, training for an ironman or making a playlist.
+I’m passionate about backend infrastructure, distributed systems, and iOS development, but I can handle the full stack when needed. When I’m not debugging something, you’ll probably find me running a marathon, training for an Ironman, or curating the perfect playlist.
 
 ### About Me 
-- I am a software engineer.
-- I recently Completed three marathons and Im currently training for an ironman. 
+- Software Engineer who loves building things that scale.
+- Not an endurance athlete - but have completed three marathon and  now training for an Ironman 
 - Listen to my Latin R&B playlist: <a href="https://open.spotify.com/playlist/1uXII1uCQ1dW0Zo6lupxmh?si=708ae888e9fd4639">link</a>
 - Not a fan of my Latin R&B playlist? Listen to my modern bolero playlist: <a href="https://open.spotify.com/playlist/4Wj0LgnWk1lsSAjA5agFPg?si=39c9abfa1a304d2e">link</a>
 - 📫 How to reach me: angeldzambrano99@gmail.com 
