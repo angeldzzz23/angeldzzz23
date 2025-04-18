@@ -19,7 +19,7 @@ Most of these are a mix of interesting side projects, companies I’ve built, cl
 - tools: Java/Springboot/docker + react/TS
 
 
-#### AnswersAI
+#### AnswersAI 
 Built an iOS app in SwiftUI that allows users to snap a photo and instantly get solutions to their problems.
 - Launched the iOS version in just six weeks, now supporting ~1.1 Million users.
 - Built the native android app
@@ -27,6 +27,8 @@ Built an iOS app in SwiftUI that allows users to snap a photo and instantly get 
 - download:
   - https://apps.apple.com/us/app/answersai-snap-solve/id6459510321
   - https://play.google.com/store/apps/details?id=com.answersai.app
+ ##### Closetly
+  - TBD
  
 #### OHDC 
 The project creates a fun, Duolingo-style mobile app for Android and iOS that helps farmworkers master pesticide safety and beat heat stress with interactive quizzes, videos, and gamified lessons—all wrapped in an easy-to-use, engaging interface with regularly updated content!
