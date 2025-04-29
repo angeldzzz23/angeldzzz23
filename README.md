@@ -27,7 +27,8 @@ Built an iOS app in SwiftUI that allows users to snap a photo and instantly get 
 - download:
   - https://apps.apple.com/us/app/answersai-snap-solve/id6459510321
   - https://play.google.com/store/apps/details?id=com.answersai.app
- ##### Closetly
+ ##### Closetly 
+  - Tools: swift + SwiftUI + python 
   - https://apps.apple.com/us/app/closetly/id6744034749
  
 #### OHDC 
