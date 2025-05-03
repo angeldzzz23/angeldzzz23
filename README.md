@@ -20,6 +20,7 @@ Most of these are a mix of interesting side projects, companies I’ve built, cl
 
 
 #### AnswersAI 
+
 Built an iOS app in SwiftUI that allows users to snap a photo and instantly get solutions to their problems.
 - Launched the iOS version, now supporting ~1.5 Million users.
 - Built the native android app, now supporting 30k Monthly Active Users. 
@@ -27,10 +28,12 @@ Built an iOS app in SwiftUI that allows users to snap a photo and instantly get 
 - download:
   - https://apps.apple.com/us/app/answersai-snap-solve/id6459510321
   - https://play.google.com/store/apps/details?id=com.answersai.app
+
  ##### Closetly 
+ Your personal AI stylist and wardrobe assistant. Whether you’re planning outfits, tracking your fashion pieces, or discovering your style, Closetly helps you stay effortlessly chic and organized.
   - Tools: swift + SwiftUI + python 
   - https://apps.apple.com/us/app/closetly/id6744034749
- 
+
 #### OHDC 
 The project creates a fun, Duolingo-style mobile app for Android and iOS that helps farmworkers master pesticide safety and beat heat stress with interactive quizzes, videos, and gamified lessons—all wrapped in an easy-to-use, engaging interface with regularly updated content!
 - tools: Uikit/swift + kotlin + react/TS
