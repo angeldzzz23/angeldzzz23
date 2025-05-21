@@ -31,7 +31,8 @@ Built an iOS app in SwiftUI that allows users to snap a photo and instantly get 
 
  ##### Closetly 
  Your personal AI stylist and wardrobe assistant. Whether you’re planning outfits, tracking your fashion pieces, or discovering your style, Closetly helps you stay effortlessly chic and organized.
-  - Tools: swift + SwiftUI + python 
+  - Tools: swift + SwiftUI + python
+  - Reached top 60 iOS apps for fashion
   - https://apps.apple.com/us/app/closetly/id6744034749
 
 #### OHDC 
