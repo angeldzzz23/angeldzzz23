@@ -1,6 +1,7 @@
 ## Hey there, world! 🌍👋
 
-I’m passionate about backend infrastructure, distributed systems, and iOS development, but I can handle the full stack when needed. When I’m not debugging something, you’ll probably find me running a marathon, training for an Ironman, or curating the perfect playlist.
+iOS + backend engineer. Obsessed with the intersection of art, code, and scrappy product. I ship fast, debug hard, and know how to move very fast without breaking everything. Passionate about backend infra, distributed systems, and turning chaotic ideas into real features overnight. Also into marathons, Ironman training, and crafting perfect playlists.
+
 
 ### About Me 
 - Software Engineer who loves building things that scale.
