@@ -10,6 +10,19 @@ iOS + backend engineer. Obsessed with the intersection of art, code, and scrappy
 - Not a fan of my Latin R&B playlist? Listen to my modern bolero playlist: <a href="https://open.spotify.com/playlist/4Wj0LgnWk1lsSAjA5agFPg?si=39c9abfa1a304d2e">link</a>
 - 📫 How to reach me: angeldzambrano99@gmail.com 
 
+### What Im into 
+- Backend: Spring boot, Python and some Node.js 
+- iOS: iOS, Swift
+- Infra & DevOp
+- ML: Tensorflow
+- Cybersecurity/Networking
+
+### 🛠 Tech I’ve Worked With
+ - Typescript/react
+ - Kotlin (Jetpack Compose + XML)
+ - Python
+
+
 
 ### Projects i've built
 Most of these are a mix of interesting side projects, companies I’ve built, client work I’ve done or companies i've worked for. For almost every project, I’ve been involved in every step of the process, ranging from the ideation (development of SRS/PRD) through design and actual development.
