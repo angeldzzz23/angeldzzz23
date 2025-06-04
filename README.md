@@ -80,6 +80,6 @@ The project creates a fun, Duolingo-style mobile app for Android and iOS that he
 - https://www.youtube.com/playlist?list=PL16_FUcnNvImERnBqqU6evEgVFtyrNacF
 
 #🎧 More About Me 
-📫 How to reach me again: angeldzambrano99@gmail.com 
-Listen to my Latin R&B playlist: <a href="https://open.spotify.com/playlist/1uXII1uCQ1dW0Zo6lupxmh?si=708ae888e9fd4639">link</a>
-Not a fan of my Latin R&B playlist? Listen to my modern bolero playlist: <a href="https://open.spotify.com/playlist/4Wj0LgnWk1lsSAjA5agFPg?si=39c9abfa1a304d2e">link</a>
+- 📫 How to reach me again: angeldzambrano99@gmail.com 
+- Listen to my Latin R&B playlist: <a href="https://open.spotify.com/playlist/1uXII1uCQ1dW0Zo6lupxmh?si=708ae888e9fd4639">link</a>
+- Not a fan of my Latin R&B playlist? Listen to my modern bolero playlist: <a href="https://open.spotify.com/playlist/4Wj0LgnWk1lsSAjA5agFPg?si=39c9abfa1a304d2e">link</a>
