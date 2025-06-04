@@ -11,7 +11,7 @@ iOS + backend engineer. Obsessed with the intersection of art, code, and scrappy
 
 ### What Im into 
 - Backend: Spring boot, Python and some Node.js 
-- iOS: SwiftUI, 
+- iOS: SwiftUI + UIkit
 - Infra & DevOp
 - ML: Tensorflow
 - Cybersecurity/Networking (Still new to the field)
