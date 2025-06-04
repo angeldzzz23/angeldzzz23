@@ -2,7 +2,6 @@
 
 iOS + backend engineer. Obsessed with the intersection of art, code, and scrappy product. I ship fast, debug hard, and know how to move very fast without breaking everything. Passionate about backend infra, distributed systems, and turning chaotic ideas into real features overnight. Also into marathons, Ironman training, and crafting perfect playlists.
 
-
 ### About Me 
 - Software Engineer who loves building things that scale.
 - Not an endurance athlete - but have completed three marathon and  now training for an Ironman 
@@ -12,16 +11,19 @@ iOS + backend engineer. Obsessed with the intersection of art, code, and scrappy
 
 ### What Im into 
 - Backend: Spring boot, Python and some Node.js 
-- iOS: iOS, Swift
+- iOS: SwiftUI, 
 - Infra & DevOp
 - ML: Tensorflow
-- Cybersecurity/Networking
+- Cybersecurity/Networking (Still new to the field)
+- OpenGL
 
 ### 🛠 Tech I’ve Worked With
+
  - Typescript/react
  - Kotlin (Jetpack Compose + XML)
  - Python
-
+ - C, C++
+ - Rust
 
 
 ### Projects i've built
@@ -85,7 +87,6 @@ The project creates a fun, Duolingo-style mobile app for Android and iOS that he
 <a href="https://github.com/angeldzzz23/angeldzzz23">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeldzzz23&hide=makefile,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-
 
 
 <a href="https://github.com/angeldzzz23/angeldzzz23">
