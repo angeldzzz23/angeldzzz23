@@ -4,7 +4,7 @@ iOS + backend engineer. Obsessed with the intersection of art, code, and scrappy
 
 ### About Me 
 - Software Engineer who loves building things that scale.
-- Not an endurance athlete - but have completed three marathon and  now training for an Ironman 
+- Not an endurance athlete (officially) - but have completed three marathon and  now training for an Ironman 
 - Listen to my Latin R&B playlist: <a href="https://open.spotify.com/playlist/1uXII1uCQ1dW0Zo6lupxmh?si=708ae888e9fd4639">link</a>
 - Not a fan of my Latin R&B playlist? Listen to my modern bolero playlist: <a href="https://open.spotify.com/playlist/4Wj0LgnWk1lsSAjA5agFPg?si=39c9abfa1a304d2e">link</a>
 - 📫 How to reach me: angeldzambrano99@gmail.com 
@@ -12,15 +12,15 @@ iOS + backend engineer. Obsessed with the intersection of art, code, and scrappy
 ### What Im into 
 - Backend: Spring boot, Python and some Node.js 
 - iOS: SwiftUI + UIkit
-- Infra & DevOp
+- Infra & DevOp: Terraform and Jenkins, Prometheus and Aws
 - ML: Tensorflow
-- Cybersecurity/Networking (Still new to the field)
+- Cybersecurity/Networking (Still learning, but actively exploring )
 - OpenGL
 
 ### 🛠 Tech I’ve Worked With
 
  - Typescript/react
- - Kotlin (Jetpack Compose + XML)
+ - Kotlin (Jetpack Compose + XML).
  - Python
  - C, C++
  - Rust
