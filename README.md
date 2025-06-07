@@ -21,6 +21,7 @@ iOS + backend engineer. Obsessed with the intersection of art, code, and scrappy
  - Python
  - C, C++
  - Rust
+ - Go
 
 
 ### Projects i've built
