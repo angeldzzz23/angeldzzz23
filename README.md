@@ -45,8 +45,8 @@ Built an iOS app in SwiftUI that allows users to snap a photo and instantly get 
 
  ##### Closetly 
  Your personal AI stylist and wardrobe assistant. Whether you’re planning outfits, tracking your fashion pieces, or discovering your style, Closetly helps you stay effortlessly chic and organized.
-  - Tools: swift + SwiftUI + python + typescript
-  - Reached top 60 iOS apps for fashion, over 40k downloads
+  - Tools: swift + SwiftUI + python + typescript + nestjs.
+  - Reached top 60 iOS apps for fashion, over 100k downloads. 
   - https://apps.apple.com/us/app/closetly/id6744034749
 
 #### OHDC 
@@ -56,6 +56,9 @@ The project creates a fun, Duolingo-style mobile app for Android and iOS that he
 - Download:
    - https://play.google.com/store/apps/details?id=com.ohdc.ohdcapp
    - https://apps.apple.com/us/app/ohdc/id6504953262
+ 
+- project breakdown:
+   - https://www.youtube.com/watch?v=m18E36cj25U
 
 #### Platform that helps artist sell merch (2023-2024)
 - 🎤 No longer live, but relive the magic:
