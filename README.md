@@ -7,30 +7,29 @@ iOS + backend engineer. Obsessed with the intersection of art, code, and scrappy
 - Not an endurance athlete (officially) - but have completed three marathon and  now training for an Ironman 
 
 ### What Im into 
-- Backend: Spring boot, Python and some Node.js 
+- Backend: Spring boot, Next, Node.js and FastAPi
 - iOS: SwiftUI + UIkit
 - Infra & DevOp: Terraform and Jenkins, Prometheus and Aws
 - ML: Tensorflow + reading papers
 - Cybersecurity/Networking (Still learning, but actively exploring )
-- OpenGL
 
 ### 🛠 Tech I’ve Worked With
 
  - Typescript/react
- - Kotlin (Jetpack Compose + XML).
  - Python
+ - Kotlin (Jetpack Compose + XML).
  - C, C++
  - Rust
  - Go
 
 ### Projects i've built
-Most of these are a mix of interesting side projects, companies I’ve built, client work I’ve done or companies i've worked for. For almost every project, I’ve been involved in every step of the process, ranging from the ideation (development of SRS/PRD) through design and actual development.
 
+Most of these are a mix of interesting side projects, companies I’ve built, client work I’ve done or companies i've worked for. For almost every project, I’ve been involved in every step of the process, ranging from the ideation (development of SRS/PRD) through design and actual development.
 
 #### AnswersAI 
 
 Built an iOS app in SwiftUI that allows users to snap a photo and instantly get solutions to their problems.
-- Launched the iOS version, now supporting ~1.5 Million users.
+- Launched the iOS version, now supporting ~2 Million users.
 - Built the native android app, now supporting 30k Monthly Active Users. 
 - Tools: swift + SwiftUI, node.js + typescript, and kotlin + jetpack compose
 - download:
