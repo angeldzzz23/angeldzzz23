@@ -1,6 +1,6 @@
 ## Hey there, world! 🌍👋
 
-iOS + backend engineer. Obsessed with the intersection of art, code, and scrappy product. I ship fast, debug hard, and know how to move very fast without breaking everything. Passionate about backend infra, distributed systems, and turning chaotic ideas into real features overnight. Also into marathons, Ironman training, and crafting perfect playlists.
+iOS + backend engineer. Obsessed with the intersection of art, code, and scrappy products. I ship fast, debug hard, and know how to move very fast without breaking everything. Passionate about backend infra, distributed systems, and turning chaotic ideas into real features overnight. Also into marathons, Ironman training, and crafting perfect playlists.
 
 ### About Me 
 - Software Engineer who loves building things that scale.
