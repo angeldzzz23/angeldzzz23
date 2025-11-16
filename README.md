@@ -7,7 +7,7 @@ iOS + backend engineer. Obsessed with the intersection of art, code, and scrappy
 - Not an endurance athlete (officially) - but have completed three marathon and  now training for an Ironman 
 
 ### What Im into 
-- Backend: Spring boot, Next, Node.js and FastAPi
+- Backend: Spring boot, Nest, Node.js and FastAPi
 - iOS: SwiftUI + UIkit
 - Infra & DevOp: Terraform and Jenkins, Prometheus and Aws
 - ML: Tensorflow + reading papers
