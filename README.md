@@ -26,6 +26,11 @@ iOS + backend engineer. Obsessed with the intersection of art, code, and scrappy
 
 Most of these are a mix of interesting side projects, companies I’ve built, client work I’ve done or companies i've worked for. For almost every project, I’ve been involved in every step of the process, ranging from the ideation (development of SRS/PRD) through design and actual development.
 
+### Tunesplit V2 - March 2026-Curent 
+
+- Building an agentic royalty accounting platform for music businesses, using React, TypeScript, Convex, springboot and AWS. The platform supports multi-currency royalty accounting, client/payee onboarding, catalog reconciliation, tax form management for both US and non US countries, statement generation, and payout workflows. Agentic operations assist with royalty file parsing, data validation, anomaly detection, catalog matching, discrepancy resolution, statement preparation, and accounting workflow automation. Onboarded around 144 clients and processing 1M+ records across catalog, royalty, payee, and statement data. Have Onboarded around 144 clients and processing 1M+ records across catalog, royalty, payee, and statement data.
+
+
 #### AnswersAI 
 
 Built an iOS app in SwiftUI that allows users to snap a photo and instantly get solutions to their problems.
