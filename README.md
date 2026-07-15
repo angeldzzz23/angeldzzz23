@@ -28,7 +28,7 @@ Most of these are a mix of interesting side projects, companies I’ve built, cl
 
 ### Tunesplit V2 - March 2026-Curent 
 
-- Building an agentic royalty accounting platform for music publishers, distributors and labels, using React, TypeScript, Convex, springboot and AWS. The platform supports multi-currency royalty accounting, client/payee onboarding, catalog reconciliation, tax form management for both US and non US countries, statement generation, and payout workflows. Agentic operations assist with royalty file parsing, data validation, anomaly detection, catalog matching, discrepancy resolution, statement preparation, and accounting workflow automation. Onboarded around 144 clients and processing 1M+ records across catalog, royalty, payee, and statement data. Have Onboarded around 144 clients and processing 1M+ records across catalog, royalty, payee, and statement data.
+- Building an agentic royalty accounting platform for music publishers, distributors and labels, using React, TypeScript, Convex, springboot and AWS. The platform supports multi-currency royalty accounting, client/payee onboarding, catalog reconciliation, tax form management for both US and non US countries, statement generation, and payout workflows. Agentic operations assist with royalty file parsing, data validation, anomaly detection, catalog matching, discrepancy resolution, statement preparation, and accounting workflow automation. Onboarded around 144 clients and processing 1M+ dollars across catalog, royalty, payee, and statement data
 
 
 #### AnswersAI 
