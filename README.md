@@ -44,7 +44,8 @@ Built an iOS app in SwiftUI that allows users to snap a photo and instantly get 
 ### Share Aura 
 Aura is a creative tool to share runs, rides and workouts to social media. Connect your tracking device, sync your activities, and share instantly after you're done training.
 - Built Android in Kotlin and worked on node.js backend.
-
+- download:
+  - https://play.google.com/store/apps/details?id=com.auramovement.aura&hl=en_US
 
  ##### Closetly 
  Your personal AI stylist and wardrobe assistant. Whether you’re planning outfits, tracking your fashion pieces, or discovering your style, Closetly helps you stay effortlessly chic and organized.
